@@ -84,7 +84,8 @@ API Documentation: "https://fabric-weave-ai.onrender.com/docs"
 
 Clone the repository:
 
-git clone https://github.com/subi-tech382/fabric-weave-ai
+git clone https://github.com/subi-tech382/fabric-weave-ai :
+
 cd fabric-weave-ai
 
 Install backend dependencies:
